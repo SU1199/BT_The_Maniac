@@ -1,2 +1,1 @@
-# BT_The_Maniac
-Interfacing arduino with bluetooth and andorid using hc-05 module.
+Implementation guide can be found at my blog :https://maniac1199.wordpress.com/how-to-control-thing-over-bluetooth-using-arduino/
